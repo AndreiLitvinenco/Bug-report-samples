@@ -1,3 +1,3 @@
 # Bug-report-samples
 
-{#}TBE
+TBE
