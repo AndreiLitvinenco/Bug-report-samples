@@ -3,7 +3,7 @@
 This repository serves as a comprehensive bug report samples portfolio, showcasing my expertise in bug reporting and problem-solving skills. It is designed to provide a preview of my capabilities and demonstrate my proficiency in effectively documenting and communicating software issues.
 
 ## Accessing the Bug Report Samples
-The bug report samples can be accessed from the repo or through the following link: [redirect](https://docs.google.com/spreadsheets/d/17S9HSyWHg9pDQkzvMso2qxS2jYqRNy_ZttC-RcLeF2s/edit#gid=1099798268).
+The bug report samples can be accessed from the repo or through the following link: [redirect](https://docs.google.com/spreadsheets/d/17S9HSyWHg9pDQkzvMso2qxS2jYqRNy_ZttC-RcLeF2s/edit?usp=sharing).
 
 
 The provided link redirects to a Google Spreadsheet document, where the bug reports are presented in an organized and easily navigable Excel table format. The Google Spreadsheet platform offers a convenient and user-friendly way to browse, search, and interact with the bug report samples.
